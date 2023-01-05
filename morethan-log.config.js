@@ -1,31 +1,31 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: 'morethanmin',
+    name: 'Lami',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'frontend developer',
-    bio: 'I develop everything using node.',
-    email: 'morethanmin.dev@gmail.com',
-    linkedin: 'morethanmin',
-    github: 'morethanmin',
+    bio: '삶이 온통 사람의 길이니',
+    email: 'halam.lee.lami@gmail.com',
+    linkedin: '',
+    github: 'halamlee',
     instagram: '',
   },
   projects: [
     {
-      name: 'Untilled',
-      href: 'https://untilled.web.app'
+      name: 'Easy Gitmoji',
+      href: 'https://easy-gitmoji.halamlee.com/'
     }
   ],
   // blog setting (required)
   blog: {
-    title: 'morethan-log',
+    title: 'lami-log',
     description: 'welcome to morethan-log!',
-    theme: 'light' // ['light', 'dark', 'auto']
+    theme: 'dark' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: 'https://morethan-log.vercel.app',
-  since: 2022, // If leave this empty, current year will be used.
+  link: 'https://www.halamlee.com/',
+  since: 2023, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
   seo: {
