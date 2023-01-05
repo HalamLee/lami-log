@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: 'lami-log',
-    description: 'welcome to morethan-log!',
+    description: '삶이 온통 사람의 길이니',
     theme: 'dark' // ['light', 'dark', 'auto']
   },
 
