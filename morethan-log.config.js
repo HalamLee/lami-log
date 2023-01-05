@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: 'Lami Log',
     description: '삶이 온통 사람의 길이니',
-    theme: 'auto' // ['light', 'dark', 'auto']
+    theme: 'light' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
