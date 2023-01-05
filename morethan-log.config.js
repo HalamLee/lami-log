@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: 'lami-log',
+    title: 'Lami Log',
     description: '삶이 온통 사람의 길이니',
-    theme: 'dark' // ['light', 'dark', 'auto']
+    theme: 'auto' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
